@@ -1,4 +1,0 @@
-comtradeapicall
-pandas
-requests
-python-dotenv
